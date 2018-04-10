@@ -1,5 +1,0 @@
-.box {
-    position: relative;
-    top: 50%;
-    transform: perspective(1px) translateY(-50%);
-}
