@@ -8,5 +8,6 @@
 .box-color {
     padding: 10px;
     background-color: #50FA83;
+    border-radius: 3px;
 }
 
